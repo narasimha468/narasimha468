@@ -5,6 +5,8 @@
 ![C++](https://img.shields.io/badge/C++-4B0082?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C52C?style=for-the-badge&logo=python&logoColor=black)
 
+---
+
 ### 🔧 Embedded Systems
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-008080?style=for-the-badge&logo=c&logoColor=white)
 ![PIC](https://img.shields.io/badge/PIC%20Microcontroller-FF6F00?style=for-the-badge&logo=microchip&logoColor=white)
@@ -12,12 +14,16 @@
 ![ARM](https://img.shields.io/badge/ARM%20Architecture-00BFA6?style=for-the-badge&logo=arm&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-800000?style=for-the-badge&logoColor=white)
 
+---
+
 ### 📡 Communication Protocols
 ![UART](https://img.shields.io/badge/UART-9C27B0?style=for-the-badge&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-03A9F4?style=for-the-badge&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-26A69A?style=for-the-badge&logoColor=white)
 ![CAN](https://img.shields.io/badge/CAN-43A047?style=for-the-badge&logoColor=white)
 ![USB](https://img.shields.io/badge/USB-FF1744?style=for-the-badge&logo=usb&logoColor=white)
+
+---
 
 ### 📊 Data Structures & Algorithms
 ![Arrays](https://img.shields.io/badge/Arrays-5E35B1?style=for-the-badge&logoColor=white)
@@ -28,6 +34,8 @@
 ![Graphs](https://img.shields.io/badge/Graphs-00897B?style=for-the-badge&logoColor=white)
 ![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-0288D1?style=for-the-badge&logoColor=white)
 ![Greedy](https://img.shields.io/badge/Greedy-FF8F00?style=for-the-badge&logoColor=white)
+
+---
 
 ### 🛠️ Tools & OS
 ![Linux](https://img.shields.io/badge/Linux-FFD600?style=for-the-badge&logo=linux&logoColor=black)
