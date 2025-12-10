@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Narasimha Majjari</h1>
+<h3 align="center">Aspiring Embedded Software Engineer | Highly Enthusiastic & Actively Seeking Opportunities</h3>
+
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### 🖥️ Programming Languages
