@@ -37,6 +37,8 @@
 ![MPLAB X](https://img.shields.io/badge/MPLAB%20X-4E342E?style=for-the-badge&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-7E57C2?style=for-the-badge&logoColor=white)
 
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -54,4 +56,3 @@
 </a>
 
 </p>
-
