@@ -39,7 +39,7 @@
 ![Trees](https://img.shields.io/badge/Trees-2E7D32?style=for-the-badge&logoColor=white)
 ![Graphs](https://img.shields.io/badge/Graphs-00897B?style=for-the-badge&logoColor=white)
 ![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-0288D1?style=for-the-badge&logoColor=white)
-![Greedy](https://img.shields.io/badge/Greedy-FF8F00?style=for-the-badge&logoColor=white)
+
 
 ---
 
