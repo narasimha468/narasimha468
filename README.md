@@ -39,11 +39,9 @@
 
 ### 🛠️ Tools & OS
 ![Linux](https://img.shields.io/badge/Linux-FFD600?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-D32F2F?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-2979FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MPLAB X](https://img.shields.io/badge/MPLAB%20X-4E342E?style=for-the-badge&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-7E57C2?style=for-the-badge&logoColor=white)
 
 ---
 
